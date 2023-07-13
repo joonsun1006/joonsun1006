@@ -17,5 +17,3 @@ Not yet...
 
 ## Contact
 **email** : joonsun1006@naver.com
-
--git 연습용 수정
