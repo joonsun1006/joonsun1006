@@ -4,14 +4,15 @@
 도전을 좋아하는 개발자
 
 ## Strong
-**Data Structure**
+**HTML/CSS**, **JS**
 
 ## Knowledgeable
-**HTML/CSS**, **JS**, **C/C++**
+**Vue**, **python**, **C/C++**
 ![HTML,CSS,JS](https://blog.kakaocdn.net/dn/boFbS2/btq874VJnrL/757pWKIIKDVpR9Zr76a7R1/img.jpg)
 
 ## Portfolio
-Not yet...
+개미들의 안식처
+https://github.com/joonsun1006/Ant
 
 ## Contact
 **email** : joonsun1006@naver.com
