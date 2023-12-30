@@ -1,18 +1,15 @@
-### 반갑습니다, 저는 안준선입니다
+<h3 align="center">🎯 Mainly focusing on 🎯</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=#5bccea"/></a>&nbsp
+</p>
 
-#### Front-end Engineer
-도전을 좋아하는 개발자
 
-## Strong
-**HTML/CSS**, **JS**
+<h3 align="center"> ⚡️ About Me ⚡️ </h3>
+<p align="center">
+  <a href="https://haksik.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://haksik.tistory.com/"/></a>&nbsp
+</p>
 
-## Knowledgeable
-**Vue**, **python**, **C/C++**
-![HTML,CSS,JS](https://blog.kakaocdn.net/dn/boFbS2/btq874VJnrL/757pWKIIKDVpR9Zr76a7R1/img.jpg)
-
-## Portfolio
-개미들의 안식처
-https://github.com/joonsun1006/Ant
-
-## Contact
-**email** : joonsun1006@naver.com
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonsun1006&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
