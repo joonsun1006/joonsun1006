@@ -1,7 +1,7 @@
 <h3 align="center">🎯 Mainly focusing on 🎯</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=#5bccea"/></a>&nbsp
 </p>
 
