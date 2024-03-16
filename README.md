@@ -3,6 +3,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=#5bccea"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/></a>&nbsp 
 </p>
 
 
