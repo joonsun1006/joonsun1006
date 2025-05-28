@@ -1,4 +1,4 @@
-# 🔭 [Blog(haksik.tistory.com/)](https://haksik.tistory.com/)
+# 🔭 [Blog(haksik.tistory.com/)](https://haksik.tistory.com)
 + **C/C++**
 <!--
 **joonsun1006/joonsun1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
